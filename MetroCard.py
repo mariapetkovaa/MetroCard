@@ -61,7 +61,7 @@ Like any other MetroCard, you get an automatic free transfer between the subway 
 SIR and a local bus, or between two local bus routes.""")
 
 
-print("This is your NYC MetroCard Calculator!")
+print("This is your NYC MetroCard Information!")
 name = input("Enter your name, please: ")
 print("Hello, " + name + "!" + """\n\nYou can choose from the following card types: 
 \n1 - Pay-Per-Ride;
